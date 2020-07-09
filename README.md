@@ -1,2 +1,2 @@
-# kbitner.github.io
-Personal Website
+# Personal Website
+Visit https://kbitner.github.io/
